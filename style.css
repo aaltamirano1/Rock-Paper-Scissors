@@ -1,0 +1,18 @@
+*{
+	font-family: 'Source Code Pro', serif;
+	font-weight: normal;
+	font-size: 1.25em;
+}
+#main{
+	margin: auto;
+	width: 75%;
+	text-align: center;
+}
+h1{
+	margin: 40px;
+}
+img{
+	height: 200px;
+	border-top:3px solid;
+	margin: 3px;
+}
