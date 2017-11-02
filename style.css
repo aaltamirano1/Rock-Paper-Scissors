@@ -16,3 +16,29 @@ img{
 	border-top:3px solid;
 	margin: 3px;
 }
+
+@media screen and (max-width: 1290px) {
+	img{
+		height: 150px;
+	}
+}
+@media screen and (max-width: 1000px) {
+	#main{
+		width: 90%;
+	}
+}
+@media screen and (max-width: 850px) {
+	*{
+		font-size: 1.1em;
+	}
+	h1{
+		margin: 15px;
+	}
+	#main{
+		width: 55%;
+	}
+	img{
+		height: auto;
+		width: 200px;
+	}
+}
